@@ -1,6 +1,6 @@
 function Home() {
     return(
-        <h1>Oi, Nandinha! Minha aplicação em React/Next.js é assim!</h1>
+        <h1>Oi, Nandinha! Sabia que seu nome significa “ousado para atingir a paz”, “o que ousa viajar”, “viajante corajoso”?</h1>
     )
 }
 
